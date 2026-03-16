@@ -42,36 +42,6 @@ Central Bank of Kenya
 | Inflation gap: lower vs upper income (2020) | +3.6pp |
 | Household health score 2023 | 1/5 — Critical |
 
----
-
-## 📁 Project Structure
-```
-kenya-economic-analysis/
-│
-├── app.ipynb                 # Data ingestion & cleaning pipeline
-├── eda.ipynb                 # Exploratory data analysis & charts
-├── sql_analysis.ipynb        # SQLite analysis — 8 queries
-│
-├── data/
-│   └── cleaned/              # 7 cleaned CSV files
-│       ├── master_annual.csv         # Master dataset (7 rows × 45 cols)
-│       ├── knbs_wages.csv            # Wages by sector & industry
-│       ├── knbs_cpi_categories.csv   # CPI by 13 categories
-│       ├── knbs_inflation_income.csv # Inflation by income group
-│       ├── energy_fuel_prices.csv    # Fuel prices 2019–2023
-│       ├── imf_macro.csv             # IMF fiscal indicators
-│       └── wb_macro.csv              # World Bank macro indicators
-│
-└── visuals/
-    ├── chart1_nominal_vs_real_growth.png
-    ├── chart2_purchasing_power.png
-    ├── chart3_cpi_by_category.png
-    ├── chart4_nominal_vs_real_wages.png
-    ├── chart5_inflation_by_income.png
-    └── chart6_fuel_prices.png
-```
-
----
 
 ## Charts
 
@@ -119,10 +89,22 @@ kenya-economic-analysis/
 
 ---
 
+## Limitations
+
+- **Wages data covers formal sector only** — Kenya's informal sector 
+  (~83% of employment) is not captured. Formal sector figures are 
+  the floor, not the ceiling, of wage erosion.
+- **KNBS data ends at 2023** — wage, CPI, and fuel figures do not 
+  cover 2024. World Bank and IMF macro data fills this gap partially.
+- **CBK exchange rate data ends 2017** — used for historical context 
+  only. Post-2017 KES/USD from World Bank annual average rate.
+- **CPI income group data is Nairobi-specific** — inflation inequality 
+  findings apply to Nairobi households and may not reflect rural areas.
+
 
 ## 👤 Author
 
-** Tess Kamau **  
+**Tess Kamau**  
 Data Analyst · Nairobi, Kenya  
 LinkedIn : www.linkedin.com/in/tesskamau-a23708354
 
