@@ -76,26 +76,31 @@ kenya-economic-analysis/
 ## Charts
 
 ### The Illusion of Growth
-![Chart 1](visuals/chart1_nominal_vs_real_growth.png)
+![Chart 1] :
 <img width="1484" height="732" alt="chart1_nominal_vs_real_growth" src="https://github.com/user-attachments/assets/c236c7db-9d17-49ec-afe2-daca442b8983" />
 
 
-### The Shrinking Shilling
-![Chart 2](visuals/chart2_purchasing_power.png)
+### The Shrinking Shilling : 
+<img width="1485" height="732" alt="chart2_purchasing_power" src="https://github.com/user-attachments/assets/517f5fcd-1280-4aae-9bfb-3c007463091b" />
 
-### What Rose Fastest
-![Chart 3](visuals/chart3_cpi_by_category.png)
 
-### The Pay Rise That Was Not
-![Chart 4](visuals/chart4_nominal_vs_real_wages.png)
+### What Rose Fastest : 
+<img width="1785" height="1032" alt="chart3_cpi_by_category" src="https://github.com/user-attachments/assets/303f3311-7cee-4267-b326-4ade78411749" />
+
+
+### The Pay Rise That Was Not : 
+![Chart 4] : 
+<img width="1485" height="732" alt="chart4_nominal_vs_real_wages" src="https://github.com/user-attachments/assets/0f473295-cff6-4ee0-af3e-c8d89c070d60" />
 
 ### The Poor Pay More
-![Chart 5](visuals/chart5_inflation_by_income.png)
+![Chart 5] :
+<img width="1484" height="732" alt="chart5_inflation_by_income" src="https://github.com/user-attachments/assets/e99dda54-1a47-4a1d-ab21-1d8e7ad08926" />
+
 
 ### The Fuel Shock
-![Chart 6](visuals/chart6_fuel_prices.png)
+![Chart 6] : 
+<img width="1479" height="732" alt="chart6_fuel_prices" src="https://github.com/user-attachments/assets/453cebd2-30d4-4eeb-ba69-a3f43861912f" />
 
----
 
 ## 🗄️ SQL Analysis
 
@@ -114,39 +119,13 @@ kenya-economic-analysis/
 
 ---
 
-## 🚀 How to Run
-
-**Requirements:**
-```bash
-pip install pandas numpy matplotlib seaborn openpyxl xlrd
-```
-
-**Steps:**
-1. Clone the repo
-2. Download raw data files from sources listed in `app.ipynb`
-3. Run `app.ipynb` to regenerate cleaned CSVs
-4. Run `eda.ipynb` for charts
-5. Run `sql_analysis.ipynb` for SQL analysis
-6. Open Power BI dashboard — connect to `data/cleaned/` CSVs
-
----
-
-## 📝 Data Sources
-
-| Source | Data | Link |
-|--------|------|------|
-| World Bank Open Data | GDP, inflation | data.worldbank.org |
-| IMF World Economic Outlook | Fiscal indicators | imf.org/en/Publications/WEO |
-| KNBS Economic Survey 2024 | Wages, CPI, fuel | knbs.or.ke |
-| Central Bank of Kenya | Exchange rates | centralbank.go.ke |
-
----
 
 ## 👤 Author
 
-**[Your Name]**  
+** Tess Kamau **  
 Data Analyst · Nairobi, Kenya  
-[LinkedIn](#) · [GitHub](#)
+LinkedIn : www.linkedin.com/in/tesskamau-a23708354
+
 
 *Built as a portfolio project demonstrating end-to-end data analysis 
 across Python, SQL, and Power BI using real Kenyan economic data.*
