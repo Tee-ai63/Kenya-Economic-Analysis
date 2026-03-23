@@ -1,0 +1,411 @@
+year,sector,industry,wage_type,annual_wage_kes,monthly_wage_kes
+2019,Private,"Agriculture, forestry and fishing",nominal,369443.3,30786.941666666666
+2020,Private,"Agriculture, forestry and fishing",nominal,376329.8,31360.816666666666
+2021,Private,"Agriculture, forestry and fishing",nominal,377630.0,31469.166666666668
+2022,Private,"Agriculture, forestry and fishing",nominal,390422.2,32535.183333333334
+2023,Private,"Agriculture, forestry and fishing",nominal,405478.0,33789.833333333336
+2019,Private,Mining and quarrying,nominal,631213.0,52601.083333333336
+2020,Private,Mining and quarrying,nominal,649873.2,54156.1
+2021,Private,Mining and quarrying,nominal,666150.1,55512.50833333333
+2022,Private,Mining and quarrying,nominal,703234.0,58602.833333333336
+2023,Private,Mining and quarrying,nominal,747702.7,62308.55833333333
+2019,Private,Manufacturing,nominal,529912.1,44159.34166666667
+2020,Private,Manufacturing,nominal,558307.6,46525.63333333333
+2021,Private,Manufacturing,nominal,570371.5,47530.958333333336
+2022,Private,Manufacturing,nominal,617660.2,51471.68333333333
+2023,Private,Manufacturing,nominal,641731.6,53477.63333333333
+2019,Private,"Electricity, gas, steam and air conditioning supply",nominal,1899820.0,158318.33333333334
+2020,Private,"Electricity, gas, steam and air conditioning supply",nominal,2052500.0,171041.66666666666
+2021,Private,"Electricity, gas, steam and air conditioning supply",nominal,2077242.5,173103.54166666666
+2022,Private,"Electricity, gas, steam and air conditioning supply",nominal,2206161.6,183846.80000000002
+2023,Private,"Electricity, gas, steam and air conditioning supply",nominal,2311934.3,192661.19166666665
+2019,Private,"Water supply; sewerage, waste management and remediation activities",nominal,282240.0,23520.0
+2020,Private,"Water supply; sewerage, waste management and remediation activities",nominal,290473.3,24206.108333333334
+2021,Private,"Water supply; sewerage, waste management and remediation activities",nominal,294899.2,24574.933333333334
+2022,Private,"Water supply; sewerage, waste management and remediation activities",nominal,310717.4,25893.11666666667
+2023,Private,"Water supply; sewerage, waste management and remediation activities",nominal,330909.3,27575.774999999998
+2019,Private,Construction,nominal,717755.7,59812.975
+2020,Private,Construction,nominal,758453.2,63204.43333333333
+2021,Private,Construction,nominal,764324.7,63693.725
+2022,Private,Construction,nominal,793421.2,66118.43333333333
+2023,Private,Construction,nominal,833123.0,69426.91666666667
+2019,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,821477.7,68456.47499999999
+2020,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,874784.6,72898.71666666666
+2021,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,892517.3,74376.44166666667
+2022,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,942160.6,78513.38333333333
+2023,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,1007700.9,83975.075
+2019,Private,Transportation and storage,nominal,1502417.0,125201.41666666667
+2020,Private,Transportation and storage,nominal,1517948.8,126495.73333333334
+2021,Private,Transportation and storage,nominal,1548117.5,129009.79166666667
+2022,Private,Transportation and storage,nominal,1621448.9,135120.74166666667
+2023,Private,Transportation and storage,nominal,1691175.8,140931.31666666668
+2019,Private,Accommodation and food service activities,nominal,454070.9,37839.24166666667
+2020,Private,Accommodation and food service activities,nominal,428829.9,35735.825000000004
+2021,Private,Accommodation and food service activities,nominal,448724.2,37393.683333333334
+2022,Private,Accommodation and food service activities,nominal,468389.1,39032.424999999996
+2023,Private,Accommodation and food service activities,nominal,480172.7,40014.39166666667
+2019,Private,Information and communication,nominal,1051571.8,87630.98333333334
+2020,Private,Information and communication,nominal,1130713.5,94226.125
+2021,Private,Information and communication,nominal,1154939.2,96244.93333333333
+2022,Private,Information and communication,nominal,1216846.9,101403.90833333333
+2023,Private,Information and communication,nominal,1290206.1,107517.175
+2019,Private,Financial and insurance activities,nominal,1947716.7,162309.725
+2020,Private,Financial and insurance activities,nominal,2052923.3,171076.94166666668
+2021,Private,Financial and insurance activities,nominal,2082067.3,173505.60833333334
+2022,Private,Financial and insurance activities,nominal,2180939.0,181744.91666666666
+2023,Private,Financial and insurance activities,nominal,2280250.4,190020.86666666667
+2019,Private,Real estate activities,nominal,310382.7,25865.225000000002
+2020,Private,Real estate activities,nominal,323347.9,26945.658333333336
+2021,Private,Real estate activities,nominal,327360.3,27280.024999999998
+2022,Private,Real estate activities,nominal,335381.5,27948.458333333332
+2023,Private,Real estate activities,nominal,352290.4,29357.533333333336
+2019,Private,"Professional, scientific and technical activities",nominal,1349343.6,112445.3
+2020,Private,"Professional, scientific and technical activities",nominal,1448250.2,120687.51666666666
+2021,Private,"Professional, scientific and technical activities",nominal,1478672.7,123222.72499999999
+2022,Private,"Professional, scientific and technical activities",nominal,1572505.4,131042.11666666665
+2023,Private,"Professional, scientific and technical activities",nominal,1676106.8,139675.56666666668
+2019,Private,Administrative and support service activities,nominal,1658850.1,138237.50833333333
+2020,Private,Administrative and support service activities,nominal,1688308.7,140692.39166666666
+2021,Private,Administrative and support service activities,nominal,1734470.2,144539.18333333332
+2022,Private,Administrative and support service activities,nominal,1809730.5,150810.875
+2023,Private,Administrative and support service activities,nominal,1886532.7,157211.05833333332
+2019,Private,Education,nominal,996661.7,83055.14166666666
+2020,Private,Education,nominal,980708.3,81725.69166666667
+2021,Private,Education,nominal,1010686.8,84223.90000000001
+2022,Private,Education,nominal,1044947.5,87078.95833333333
+2023,Private,Education,nominal,1069430.6,89119.21666666667
+2019,Private,Human health and social work activities,nominal,970509.8,80875.81666666667
+2020,Private,Human health and social work activities,nominal,1052848.4,87737.36666666665
+2021,Private,Human health and social work activities,nominal,1077155.3,89762.94166666667
+2022,Private,Human health and social work activities,nominal,1141903.8,95158.65000000001
+2023,Private,Human health and social work activities,nominal,1217894.4,101491.2
+2019,Private,"Arts, entertainment and recreation",nominal,727743.2,60645.26666666666
+2020,Private,"Arts, entertainment and recreation",nominal,775896.9,64658.075000000004
+2021,Private,"Arts, entertainment and recreation",nominal,787216.7,65601.39166666666
+2022,Private,"Arts, entertainment and recreation",nominal,824651.6,68720.96666666666
+2023,Private,"Arts, entertainment and recreation",nominal,864556.5,72046.375
+2019,Private,Other service activities,nominal,1053187.9,87765.65833333333
+2020,Private,Other service activities,nominal,1135263.9,94605.325
+2021,Private,Other service activities,nominal,1163443.3,96953.60833333334
+2022,Private,Other service activities,nominal,1245120.5,103760.04166666667
+2023,Private,Other service activities,nominal,1335527.5,111293.95833333333
+2019,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,nominal,271769.4,22647.45
+2020,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,nominal,292280.0,24356.666666666668
+2021,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,nominal,296867.8,24738.983333333334
+2022,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,nominal,314098.3,26174.858333333334
+2023,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,nominal,333619.9,27801.658333333336
+2019,Private,Activities of extraterritorial organizations and bodies,nominal,3519080.0,293256.6666666667
+2020,Private,Activities of extraterritorial organizations and bodies,nominal,3699960.0,308330.0
+2021,Private,Activities of extraterritorial organizations and bodies,nominal,3757013.2,313084.43333333335
+2022,Private,Activities of extraterritorial organizations and bodies,nominal,4009007.0,334083.9166666667
+2023,Private,Activities of extraterritorial organizations and bodies,nominal,4002034.7,333502.89166666666
+2019,Public,"Agriculture, forestry and fishing",nominal,479060.9,39921.74166666667
+2020,Public,"Agriculture, forestry and fishing",nominal,511470.3,42622.525
+2021,Public,"Agriculture, forestry and fishing",nominal,515093.2,42924.433333333334
+2022,Public,"Agriculture, forestry and fishing",nominal,524004.0,43667.0
+2023,Public,"Agriculture, forestry and fishing",nominal,512012.5,42667.708333333336
+2019,Public,Mining and quarrying,nominal,479654.5,39971.208333333336
+2020,Public,Mining and quarrying,nominal,519280.4,43273.36666666667
+2021,Public,Mining and quarrying,nominal,522339.7,43528.308333333334
+2022,Public,Mining and quarrying,nominal,540469.7,45039.14166666666
+2023,Public,Mining and quarrying,nominal,544199.1,45349.924999999996
+2019,Public,Manufacturing,nominal,986737.4,82228.11666666667
+2020,Public,Manufacturing,nominal,1048868.9,87405.74166666665
+2021,Public,Manufacturing,nominal,1041861.6,86821.8
+2022,Public,Manufacturing,nominal,1069384.7,89115.39166666666
+2023,Public,Manufacturing,nominal,1055646.9,87970.575
+2019,Public,"Electricity, gas, steam and air conditioning supply",nominal,1457147.2,121428.93333333333
+2020,Public,"Electricity, gas, steam and air conditioning supply",nominal,1518954.8,126579.56666666667
+2021,Public,"Electricity, gas, steam and air conditioning supply",nominal,1529985.0,127498.75
+2022,Public,"Electricity, gas, steam and air conditioning supply",nominal,1558086.8,129840.56666666667
+2023,Public,"Electricity, gas, steam and air conditioning supply",nominal,1501474.1,125122.84166666667
+2019,Public,"Water supply; sewerage, waste management and remediation activities",nominal,652965.2,54413.76666666666
+2020,Public,"Water supply; sewerage, waste management and remediation activities",nominal,669139.8,55761.65
+2021,Public,"Water supply; sewerage, waste management and remediation activities",nominal,669044.7,55753.725
+2022,Public,"Water supply; sewerage, waste management and remediation activities",nominal,684467.8,57038.98333333334
+2023,Public,"Water supply; sewerage, waste management and remediation activities",nominal,652613.1,54384.424999999996
+2019,Public,Construction,nominal,810870.0,67572.5
+2020,Public,Construction,nominal,864611.3,72050.94166666667
+2021,Public,Construction,nominal,874117.1,72843.09166666666
+2022,Public,Construction,nominal,893062.1,74421.84166666666
+2023,Public,Construction,nominal,872650.5,72720.875
+2019,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,990747.7,82562.30833333333
+2020,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,1050195.5,87516.29166666667
+2021,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,1060093.0,88341.08333333333
+2022,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,1094656.0,91221.33333333333
+2023,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,nominal,1146032.4,95502.7
+2019,Public,Transportation and storage,nominal,1882677.1,156889.75833333333
+2020,Public,Transportation and storage,nominal,2031354.9,169279.57499999998
+2021,Public,Transportation and storage,nominal,2111985.1,175998.75833333333
+2022,Public,Transportation and storage,nominal,2257599.7,188133.30833333335
+2023,Public,Transportation and storage,nominal,2432154.7,202679.55833333335
+2019,Public,Accommodation and food service activities,nominal,2120817.5,176734.79166666666
+2020,Public,Accommodation and food service activities,nominal,2444728.7,203727.3916666667
+2021,Public,Accommodation and food service activities,nominal,2476497.1,206374.75833333333
+2022,Public,Accommodation and food service activities,nominal,2642490.8,220207.56666666665
+2023,Public,Accommodation and food service activities,nominal,2816364.9,234697.07499999998
+2019,Public,Information and communication,nominal,873650.3,72804.19166666667
+2020,Public,Information and communication,nominal,930604.3,77550.35833333334
+2021,Public,Information and communication,nominal,937081.9,78090.15833333334
+2022,Public,Information and communication,nominal,939113.2,78259.43333333333
+2023,Public,Information and communication,nominal,925290.3,77107.52500000001
+2019,Public,Financial and insurance activities,nominal,1899332.6,158277.71666666667
+2020,Public,Financial and insurance activities,nominal,2234029.6,186169.13333333333
+2021,Public,Financial and insurance activities,nominal,1967098.4,163924.86666666667
+2022,Public,Financial and insurance activities,nominal,2115055.5,176254.625
+2023,Public,Financial and insurance activities,nominal,2115294.4,176274.53333333333
+2019,Public,"Professional, scientific and technical activities",nominal,983002.0,81916.83333333333
+2020,Public,"Professional, scientific and technical activities",nominal,1179367.83,98280.65250000001
+2021,Public,"Professional, scientific and technical activities",nominal,1192971.91,99414.32583333332
+2022,Public,"Professional, scientific and technical activities",nominal,1453582.1,121131.84166666667
+2023,Public,"Professional, scientific and technical activities",nominal,1208491.2,100707.59999999999
+2019,Public,Public administration and defence; compulsory social security,nominal,653355.0,54446.25
+2020,Public,Public administration and defence; compulsory social security,nominal,640562.08,53380.17333333333
+2021,Public,Public administration and defence; compulsory social security,nominal,672170.89,56014.24083333334
+2022,Public,Public administration and defence; compulsory social security,nominal,638552.6,53212.71666666667
+2023,Public,Public administration and defence; compulsory social security,nominal,621170.7,51764.225
+2019,Public,Education,nominal,712026.1,59335.50833333333
+2020,Public,Education,nominal,692751.03,57729.2525
+2021,Public,Education,nominal,706234.91,58852.90916666667
+2022,Public,Education,nominal,750015.4,62501.28333333333
+2023,Public,Education,nominal,734112.3,61176.025
+2019,Public,Human health and social work activities,nominal,1594048.1,132837.34166666667
+2020,Public,Human health and social work activities,nominal,1753909.14,146159.095
+2021,Public,Human health and social work activities,nominal,1864526.43,155377.20249999998
+2022,Public,Human health and social work activities,nominal,1810262.1,150855.17500000002
+2023,Public,Human health and social work activities,nominal,1845100.8,153758.4
+2019,Public,"Arts, entertainment and recreation",nominal,867878.1,72323.175
+2020,Public,"Arts, entertainment and recreation",nominal,916337.61,76361.4675
+2021,Public,"Arts, entertainment and recreation",nominal,921767.23,76813.93583333334
+2022,Public,"Arts, entertainment and recreation",nominal,932472.8,77706.06666666667
+2023,Public,"Arts, entertainment and recreation",nominal,920998.8,76749.90000000001
+2019,Public,Ministries and other extra-budgetary institutions,nominal,691615.0,57634.583333333336
+2020,Public,Ministries and other extra-budgetary institutions,nominal,739581.7,61631.80833333333
+2021,Public,Ministries and other extra-budgetary institutions,nominal,743207.6,61933.96666666667
+2022,Public,Ministries and other extra-budgetary institutions,nominal,751332.7,62611.05833333333
+2023,Public,Ministries and other extra-budgetary institutions,nominal,757083.5,63090.291666666664
+2019,Public,Teachers Service Commission,nominal,706201.0,58850.083333333336
+2020,Public,Teachers Service Commission,nominal,728740.4,60728.36666666667
+2021,Public,Teachers Service Commission,nominal,742118.3,61843.19166666667
+2022,Public,Teachers Service Commission,nominal,767288.6,63940.71666666667
+2023,Public,Teachers Service Commission,nominal,730003.4,60833.61666666667
+2019,Public,Parastatal Bodies2,nominal,965557.0,80463.08333333333
+2020,Public,Parastatal Bodies2,nominal,968453.7,80704.47499999999
+2021,Public,Parastatal Bodies2,nominal,976979.1,81414.925
+2022,Public,Parastatal Bodies2,nominal,1016403.0,84700.25
+2023,Public,Parastatal Bodies2,nominal,1057208.4,88100.7
+2019,Public,Corporations Controlled by the Government3,nominal,1276383.4,106365.28333333333
+2020,Public,Corporations Controlled by the Government3,nominal,1280212.5,106684.375
+2021,Public,Corporations Controlled by the Government3,nominal,1291482.3,107623.52500000001
+2022,Public,Corporations Controlled by the Government3,nominal,1343597.4,111966.45
+2023,Public,Corporations Controlled by the Government3,nominal,1397527.7,116460.64166666666
+2019,Public,County governments,nominal,856242.4,71353.53333333334
+2020,Public,County governments,nominal,806295.0,67191.25
+2021,Public,County governments,nominal,867614.1,72301.175
+2022,Public,County governments,nominal,870498.2,72541.51666666666
+2023,Public,County governments,nominal,853918.9,71159.90833333334
+2019,Private,"Agriculture, forestry and fishing",real,356885.6,29740.466666666664
+2020,Private,"Agriculture, forestry and fishing",real,347598.7,28966.558333333334
+2021,Private,"Agriculture, forestry and fishing",real,328060.1,27338.341666666664
+2022,Private,"Agriculture, forestry and fishing",real,314299.0,26191.583333333332
+2023,Private,"Agriculture, forestry and fishing",real,302572.9,25214.408333333336
+2019,Private,Mining and quarrying,real,609757.6,50813.13333333333
+2020,Private,Mining and quarrying,real,600258.2,50021.51666666666
+2021,Private,Mining and quarrying,real,578707.4,48225.61666666667
+2022,Private,Mining and quarrying,real,566119.8,47176.65
+2023,Private,Mining and quarrying,real,557945.4,46495.450000000004
+2019,Private,Manufacturing,real,511900.0,42658.333333333336
+2020,Private,Manufacturing,real,515683.3,42973.60833333333
+2021,Private,Manufacturing,real,495501.3,41291.775
+2022,Private,Manufacturing,real,497230.9,41435.90833333333
+2023,Private,Manufacturing,real,478868.5,39905.708333333336
+2019,Private,"Electricity, gas, steam and air conditioning supply",real,1835243.7,152936.975
+2020,Private,"Electricity, gas, steam and air conditioning supply",real,1895800.7,157983.39166666666
+2021,Private,"Electricity, gas, steam and air conditioning supply",real,1804571.7,150380.975
+2022,Private,"Electricity, gas, steam and air conditioning supply",real,1776011.6,148000.96666666667
+2023,Private,"Electricity, gas, steam and air conditioning supply",real,1725195.4,143766.28333333333
+2019,Private,"Water supply; sewerage, waste management and remediation activities",real,272646.4,22720.533333333336
+2020,Private,"Water supply; sewerage, waste management and remediation activities",real,268296.9,22358.075
+2021,Private,"Water supply; sewerage, waste management and remediation activities",real,256189.0,21349.083333333332
+2022,Private,"Water supply; sewerage, waste management and remediation activities",real,250134.8,20844.566666666666
+2023,Private,"Water supply; sewerage, waste management and remediation activities",real,246928.8,20577.399999999998
+2019,Private,Construction,real,693358.6,57779.88333333333
+2020,Private,Construction,real,700548.7,58379.05833333333
+2021,Private,Construction,real,663995.0,55332.916666666664
+2022,Private,Construction,real,638722.6,53226.88333333333
+2023,Private,Construction,real,621687.2,51807.26666666666
+2019,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,793555.1,66129.59166666666
+2020,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,807998.6,67333.21666666666
+2021,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,775360.4,64613.36666666667
+2022,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,758461.2,63205.1
+2023,Private,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,751959.5,62663.291666666664
+2019,Private,Transportation and storage,real,1451348.7,120945.72499999999
+2020,Private,Transportation and storage,real,1402060.1,116838.34166666667
+2021,Private,Transportation and storage,real,1344902.7,112075.22499999999
+2022,Private,Transportation and storage,real,1305304.2,108775.34999999999
+2023,Private,Transportation and storage,real,1261977.3,105164.77500000001
+2019,Private,Accommodation and food service activities,real,438636.7,36553.058333333334
+2020,Private,Accommodation and food service activities,real,396090.6,33007.549999999996
+2021,Private,Accommodation and food service activities,real,389822.1,32485.175
+2022,Private,Accommodation and food service activities,real,377064.2,31422.016666666666
+2023,Private,Accommodation and food service activities,real,358311.1,29859.25833333333
+2019,Private,Information and communication,real,1015828.1,84652.34166666666
+2020,Private,Information and communication,real,1044388.5,87032.375
+2021,Private,Information and communication,real,1003335.2,83611.26666666666
+2022,Private,Information and communication,real,979590.2,81632.51666666666
+2023,Private,Information and communication,real,962768.6,80230.71666666666
+2019,Private,Financial and insurance activities,real,1881512.3,156792.69166666668
+2020,Private,Financial and insurance activities,real,1896191.6,158015.96666666667
+2021,Private,Financial and insurance activities,real,1808763.2,150730.26666666666
+2022,Private,Financial and insurance activities,real,1755706.8,146308.9
+2023,Private,Financial and insurance activities,real,1701552.4,141796.03333333333
+2019,Private,Real estate activities,real,299832.5,24986.041666666668
+2020,Private,Real estate activities,real,298661.7,24888.475000000002
+2021,Private,Real estate activities,real,284389.1,23699.091666666664
+2022,Private,Real estate activities,real,269989.9,22499.158333333336
+2023,Private,Real estate activities,real,262883.7,21906.975000000002
+2019,Private,"Professional, scientific and technical activities",real,1303478.4,108623.2
+2020,Private,"Professional, scientific and technical activities",real,1337682.6,111473.55
+2021,Private,"Professional, scientific and technical activities",real,1284573.6,107047.8
+2022,Private,"Professional, scientific and technical activities",real,1265903.6,105491.96666666667
+2023,Private,"Professional, scientific and technical activities",real,1250732.7,104227.72499999999
+2019,Private,Administrative and support service activities,real,1602464.6,133538.71666666667
+2020,Private,Administrative and support service activities,real,1559413.8,129951.15000000001
+2021,Private,Administrative and support service activities,real,1506793.7,125566.14166666666
+2022,Private,Administrative and support service activities,real,1456875.3,121406.27500000001
+2023,Private,Administrative and support service activities,real,1407755.2,117312.93333333333
+2019,Private,Education,real,962784.4,80232.03333333334
+2020,Private,Education,real,905835.5,75486.29166666667
+2021,Private,Education,real,878018.2,73168.18333333333
+2022,Private,Education,real,841207.1,70100.59166666666
+2023,Private,Education,real,798023.0,66501.91666666667
+2019,Private,Human health and social work activities,real,937521.4,78126.78333333334
+2020,Private,Human health and social work activities,real,972468.0,81039.0
+2021,Private,Human health and social work activities,real,935761.7,77980.14166666666
+2022,Private,Human health and social work activities,real,919259.2,76604.93333333333
+2023,Private,Human health and social work activities,real,908808.6,75734.05
+2019,Private,"Arts, entertainment and recreation",real,703006.7,58583.89166666666
+2020,Private,"Arts, entertainment and recreation",real,716660.6,59721.71666666667
+2021,Private,"Arts, entertainment and recreation",real,683882.1,56990.174999999996
+2022,Private,"Arts, entertainment and recreation",real,663863.8,55321.98333333334
+2023,Private,"Arts, entertainment and recreation",real,645143.3,53761.94166666667
+2019,Private,Other service activities,real,1017389.3,84782.44166666667
+2020,Private,Other service activities,real,1048591.5,87382.625
+2021,Private,Other service activities,real,1010723.0,84226.91666666667
+2022,Private,Other service activities,real,1002351.0,83529.25
+2023,Private,Other service activities,real,996588.0,83049.0
+2019,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,real,262531.7,21877.641666666666
+2020,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,real,269965.7,22497.141666666666
+2021,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,real,257899.2,21491.600000000002
+2022,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,real,252856.4,21071.366666666665
+2023,Private,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,real,248951.5,20745.958333333332
+2019,Private,Activities of extraterritorial organizations and bodies,real,3399463.8,283288.64999999997
+2020,Private,Activities of extraterritorial organizations and bodies,real,3417484.4,284790.36666666664
+2021,Private,Activities of extraterritorial organizations and bodies,real,3263846.1,271987.175
+2022,Private,Activities of extraterritorial organizations and bodies,real,3227344.2,268945.35000000003
+2023,Private,Activities of extraterritorial organizations and bodies,real,2986370.2,248864.18333333335
+2019,Public,"Agriculture, forestry and fishing",real,462777.3,38564.775
+2020,Public,"Agriculture, forestry and fishing",real,472421.8,39368.48333333333
+2021,Public,"Agriculture, forestry and fishing",real,447478.1,37289.84166666667
+2022,Public,"Agriculture, forestry and fishing",real,421835.4,35152.950000000004
+2023,Public,"Agriculture, forestry and fishing",real,382070.4,31839.2
+2019,Public,Mining and quarrying,real,463350.7,38612.558333333334
+2020,Public,Mining and quarrying,real,479635.6,39969.63333333333
+2021,Public,Mining and quarrying,real,453773.4,37814.450000000004
+2022,Public,Mining and quarrying,real,435090.7,36257.558333333334
+2023,Public,Mining and quarrying,real,406088.4,33840.700000000004
+2019,Public,Manufacturing,real,953197.4,79433.11666666667
+2020,Public,Manufacturing,real,968792.4,80732.7
+2021,Public,Manufacturing,real,905098.8,75424.90000000001
+2022,Public,Manufacturing,real,860879.7,71739.97499999999
+2023,Public,Manufacturing,real,787737.4,65644.78333333334
+2019,Public,"Electricity, gas, steam and air conditioning supply",real,1407617.7,117301.47499999999
+2020,Public,"Electricity, gas, steam and air conditioning supply",real,1402989.3,116915.77500000001
+2021,Public,"Electricity, gas, steam and air conditioning supply",real,1329147.4,110762.28333333333
+2022,Public,"Electricity, gas, steam and air conditioning supply",real,1254296.2,104524.68333333333
+2023,Public,"Electricity, gas, steam and air conditioning supply",real,1120419.5,93368.29166666667
+2019,Public,"Water supply; sewerage, waste management and remediation activities",real,630770.4,52564.200000000004
+2020,Public,"Water supply; sewerage, waste management and remediation activities",real,618054.0,51504.5
+2021,Public,"Water supply; sewerage, waste management and remediation activities",real,581220.7,48435.05833333333
+2022,Public,"Water supply; sewerage, waste management and remediation activities",real,551012.6,45917.71666666667
+2023,Public,"Water supply; sewerage, waste management and remediation activities",real,486988.4,40582.36666666667
+2019,Public,Construction,real,783307.9,65275.65833333333
+2020,Public,Construction,real,798602.1,66550.175
+2021,Public,Construction,real,759373.8,63281.15
+2022,Public,Construction,real,718935.8,59911.31666666667
+2023,Public,Construction,real,651183.1,54265.25833333333
+2019,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,957071.4,79755.95
+2020,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,970017.7,80834.80833333333
+2021,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,920937.0,76744.75
+2022,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,881223.7,73435.30833333333
+2023,Public,Wholesale and retail trade; repair of motor vehicles and motorcycles,real,855184.2,71265.34999999999
+2019,Public,Transportation and storage,real,1818683.4,151556.94999999998
+2020,Public,Transportation and storage,real,1876269.9,156355.82499999998
+2021,Public,Transportation and storage,real,1834749.7,152895.80833333332
+2022,Public,Transportation and storage,real,1817420.4,151451.69999999998
+2023,Public,Transportation and storage,real,1814905.4,151242.11666666667
+2019,Public,Accommodation and food service activities,real,2048729.3,170727.44166666668
+2020,Public,Accommodation and food service activities,real,2258084.4,188173.69999999998
+2021,Public,Accommodation and food service activities,real,2151413.1,179284.42500000002
+2022,Public,Accommodation and food service activities,real,2127266.8,177272.2333333333
+2023,Public,Accommodation and food service activities,real,2101608.0,175134.0
+2019,Public,Information and communication,real,843954.3,70329.52500000001
+2020,Public,Information and communication,real,859556.8,71629.73333333334
+2021,Public,Information and communication,real,814073.4,67839.45
+2022,Public,Information and communication,real,756008.0,63000.666666666664
+2023,Public,Information and communication,real,690463.6,57538.63333333333
+2019,Public,Financial and insurance activities,real,1834772.8,152897.73333333334
+2020,Public,Financial and insurance activities,real,2063471.3,171955.94166666668
+2021,Public,Financial and insurance activities,real,1708882.0,142406.83333333334
+2022,Public,Financial and insurance activities,real,1702669.1,141889.09166666667
+2023,Public,Financial and insurance activities,real,1578460.1,131538.34166666667
+2019,Public,"Professional, scientific and technical activities",real,949589.0,79132.41666666667
+2020,Public,"Professional, scientific and technical activities",real,1089328.3,90777.35833333334
+2021,Public,"Professional, scientific and technical activities",real,1036373.3,86364.44166666667
+2022,Public,"Professional, scientific and technical activities",real,1170167.5,97513.95833333333
+2023,Public,"Professional, scientific and technical activities",real,901791.8,75149.31666666667
+2019,Public,Public administration and defence; compulsory social security,real,631147.0,52595.583333333336
+2020,Public,Public administration and defence; compulsory social security,real,591658.0,49304.833333333336
+2021,Public,Public administration and defence; compulsory social security,real,583936.6,48661.38333333333
+2022,Public,Public administration and defence; compulsory social security,real,514049.7,42837.475
+2023,Public,Public administration and defence; compulsory social security,real,463525.6,38627.13333333333
+2019,Public,Education,real,687823.8,57318.65
+2020,Public,Education,real,639862.5,53321.875
+2021,Public,Education,real,613529.1,51127.424999999996
+2022,Public,Education,real,603779.9,50314.99166666667
+2023,Public,Education,real,547804.1,45650.34166666667
+2019,Public,Human health and social work activities,real,1539865.2,128322.09999999999
+2020,Public,Human health and social work activities,real,1620005.9,135000.49166666667
+2021,Public,Human health and social work activities,real,1619774.4,134981.19999999998
+2022,Public,Human health and social work activities,real,1457303.2,121441.93333333333
+2023,Public,Human health and social work activities,real,1376838.1,114736.50833333335
+2019,Public,"Arts, entertainment and recreation",real,838378.3,69864.85833333334
+2020,Public,"Arts, entertainment and recreation",real,846379.3,70531.60833333334
+2021,Public,"Arts, entertainment and recreation",real,800769.0,66730.75
+2022,Public,"Arts, entertainment and recreation",real,750662.4,62555.200000000004
+2023,Public,"Arts, entertainment and recreation",real,687261.2,57271.76666666666
+2019,Public,Ministries and other extra-budgetary institutions,real,668106.5,55675.541666666664
+2020,Public,Ministries and other extra-budgetary institutions,real,683117.9,56926.49166666667
+2021,Public,Ministries and other extra-budgetary institutions,real,645648.5,53804.041666666664
+2022,Public,Ministries and other extra-budgetary institutions,real,604840.4,50403.36666666667
+2023,Public,Ministries and other extra-budgetary institutions,real,564945.6,47078.799999999996
+2019,Public,Teachers Service Commission,real,682196.7,56849.725
+2020,Public,Teachers Service Commission,real,673104.3,56092.025
+2021,Public,Teachers Service Commission,real,644702.1,53725.174999999996
+2022,Public,Teachers Service Commission,real,617685.3,51473.775
+2023,Public,Teachers Service Commission,real,544738.0,45394.833333333336
+2019,Public,Parastatal Bodies2,real,932737.0,77728.08333333333
+2020,Public,Parastatal Bodies2,real,894516.5,74543.04166666667
+2021,Public,Parastatal Bodies2,real,848733.3,70727.77500000001
+2022,Public,Parastatal Bodies2,real,818228.2,68185.68333333333
+2023,Public,Parastatal Bodies2,real,788902.6,65741.88333333333
+2019,Public,Corporations Controlled by the Government3,real,1232998.1,102749.84166666667
+2020,Public,Corporations Controlled by the Government3,real,1182473.9,98539.49166666665
+2021,Public,Corporations Controlled by the Government3,real,1121952.4,93496.03333333333
+2022,Public,Corporations Controlled by the Government3,real,1081627.3,90135.60833333334
+2023,Public,Corporations Controlled by the Government3,real,1042853.3,86904.44166666667
+2019,Public,County governments,real,827138.1,68928.175
+2020,Public,County governments,real,744738.0,62061.5
+2021,Public,County governments,real,753724.4,62810.36666666667
+2022,Public,County governments,real,700771.4,58397.61666666667
+2023,Public,County governments,real,637205.3,53100.44166666667

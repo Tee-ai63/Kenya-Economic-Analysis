@@ -1,0 +1,31 @@
+year,income_group,inflation_pct
+2019,Nairobi Lower Income,5.3
+2020,Nairobi Lower Income,6.2
+2021,Nairobi Lower Income,6.0
+2022,Nairobi Lower Income,8.1
+2023,Nairobi Lower Income,7.4
+2019,Nairobi Middle Income,5.2
+2020,Nairobi Middle Income,2.6
+2021,Nairobi Middle Income,4.2
+2022,Nairobi Middle Income,6.0
+2023,Nairobi Middle Income,6.6
+2019,Nairobi Upper Income,5.9
+2020,Nairobi Upper Income,2.6
+2021,Nairobi Upper Income,4.0
+2022,Nairobi Upper Income,5.7
+2023,Nairobi Upper Income,6.1
+2019,Nairobi,5.3
+2020,Nairobi,4.7
+2021,Nairobi,5.2
+2022,Nairobi,7.2
+2023,Nairobi,7.0
+2019,Rest of Urban Areas,5.2
+2020,Rest of Urban Areas,5.9
+2021,Rest of Urban Areas,6.7
+2022,Rest of Urban Areas,8.0
+2023,Rest of Urban Areas,8.1
+2019,Overall Inflation,5.2
+2020,Overall Inflation,5.4
+2021,Overall Inflation,6.1
+2022,Overall Inflation,7.7
+2023,Overall Inflation,7.7

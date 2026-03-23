@@ -1,0 +1,71 @@
+year,category,weight_pct,cpi_index,cpi_2019,price_change_vs_2019_pct
+2019,Food and Non-Alcoholic Beverages,32.9094,107.03,107.03,0.0
+2020,Food and Non-Alcoholic Beverages,32.9094,116.73,107.03,9.1
+2021,Food and Non-Alcoholic Beverages,32.9094,126.65,107.03,18.3
+2022,Food and Non-Alcoholic Beverages,32.9094,143.26,107.03,33.9
+2023,Food and Non-Alcoholic Beverages,32.9094,157.12,107.03,46.8
+2019,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,103.53,103.53,0.0
+2020,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,109.98,103.53,6.2
+2021,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,113.02,103.53,9.2
+2022,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,118.28,103.53,14.2
+2023,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,129.17,103.53,24.8
+2019,Clothing and Footwear,2.9914,101.05,101.05,0.0
+2020,Clothing and Footwear,2.9914,103.5,101.05,2.4
+2021,Clothing and Footwear,2.9914,105.91,101.05,4.8
+2022,Clothing and Footwear,2.9914,108.39,101.05,7.3
+2023,Clothing and Footwear,2.9914,111.67,101.05,10.5
+2019,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,101.0,101.0,0.0
+2020,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,103.33,101.0,2.3
+2021,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,108.26,101.0,7.2
+2022,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,114.68,101.0,13.5
+2023,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,123.99,101.0,22.8
+2019,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,101.08,101.08,0.0
+2020,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,103.0,101.08,1.9
+2021,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,107.19,101.08,6.0
+2022,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,116.43,101.08,15.2
+2023,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,122.8,101.08,21.5
+2019,Health,2.9116,100.56,100.56,0.0
+2020,Health,2.9116,102.69,100.56,2.1
+2021,Health,2.9116,106.2,100.56,5.6
+2022,Health,2.9116,107.55,100.56,7.0
+2023,Health,2.9116,110.11,100.56,9.5
+2019,Transport,9.6468,102.4,102.4,0.0
+2020,Transport,9.6468,111.5,102.4,8.9
+2021,Transport,9.6468,125.16,102.4,22.2
+2022,Transport,9.6468,135.26,102.4,32.1
+2023,Transport,9.6468,151.73,102.4,48.2
+2019,Information and Communication,7.784,100.49,100.49,0.0
+2020,Information and Communication,7.784,101.11,100.49,0.6
+2021,Information and Communication,7.784,103.04,100.49,2.5
+2022,Information and Communication,7.784,104.8,100.49,4.3
+2023,Information and Communication,7.784,105.99,100.49,5.5
+2019,"Recreation, Sport and Culture",1.7219,100.61,100.61,0.0
+2020,"Recreation, Sport and Culture",1.7219,103.02,100.61,2.4
+2021,"Recreation, Sport and Culture",1.7219,104.92,100.61,4.3
+2022,"Recreation, Sport and Culture",1.7219,107.69,100.61,7.0
+2023,"Recreation, Sport and Culture",1.7219,113.6,100.61,12.9
+2019,Education Services,5.562,100.19,100.19,0.0
+2020,Education Services,5.562,101.74,100.19,1.5
+2021,Education Services,5.562,103.7,100.19,3.5
+2022,Education Services,5.562,104.77,100.19,4.6
+2023,Education Services,5.562,107.05,100.19,6.8
+2019,Restaurants and Accommodation Services,8.0991,101.03,101.03,0.0
+2020,Restaurants and Accommodation Services,8.0991,104.01,101.03,2.9
+2021,Restaurants and Accommodation Services,8.0991,107.3,101.03,6.2
+2022,Restaurants and Accommodation Services,8.0991,111.04,101.03,9.9
+2023,Restaurants and Accommodation Services,8.0991,116.94,101.03,15.7
+2019,Insurance and Financial Services,2.2423,100.18,100.18,0.0
+2020,Insurance and Financial Services,2.2423,100.94,100.18,0.8
+2021,Insurance and Financial Services,2.2423,102.56,100.18,2.4
+2022,Insurance and Financial Services,2.2423,103.18,100.18,3.0
+2023,Insurance and Financial Services,2.2423,104.44,100.18,4.3
+2019,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,101.28,101.28,0.0
+2020,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,103.59,101.28,2.3
+2021,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,106.59,101.28,5.2
+2022,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,111.22,101.28,9.8
+2023,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,119.42,101.28,17.9
+2019,Weighted Average of All Items,100.0,103.16,103.16,0.0
+2020,Weighted Average of All Items,100.0,108.69,103.16,5.4
+2021,Weighted Average of All Items,100.0,115.33,103.16,11.8
+2022,Weighted Average of All Items,100.0,124.16,103.16,20.4
+2023,Weighted Average of All Items,100.0,133.69,103.16,29.6
